@@ -12,7 +12,7 @@ public class DetalleOrden {
     public DetalleOrden() {
     }
 
-    
+    //comment
     
     public DetalleOrden(Integer id, String nombre, double cantidad, double precio, double total) {
         this.id = id;
